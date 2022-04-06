@@ -15,5 +15,6 @@ Ya que podrían ingresar varias personas a la vez, BMO atendería cada una de la
 
 - HTML
 - Javascript
+- Three JS
 - Socket.io
 
